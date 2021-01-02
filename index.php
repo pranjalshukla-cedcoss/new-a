@@ -23,3 +23,4 @@ define( 'WP_USE_THEMES', true );
 gjgyhj
 >>>>>>> a
 require __DIR__ . '/wp-blog-header.php';
+echo "hello";
