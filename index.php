@@ -24,3 +24,4 @@ gjgyhj
 >>>>>>> a
 require __DIR__ . '/wp-blog-header.php';
 echo "hello";
+sdjbcvfckjbjf
